@@ -54,7 +54,8 @@ folderPath = './Resources/Modes'
 This project is licensed under the MIT License.
 
 ## 참고 자료
-> 한땀한땀 딥러닝 컴퓨터 비전 백과사전[https://wikidocs.net/151311]
+> [한땀한땀 딥러닝 컴퓨터 비전 백과사전](https://wikidocs.net/151311)
 
-> GhostFaceNets[https://github.com/HamadYA/GhostFaceNets]
-> 
+> [GhostFaceNets](https://github.com/HamadYA/GhostFaceNets)
+
+> [Face Recognition with Real Time Database | 2 Hour Course | Computer Vision](https://www.youtube.com/watch?v=iBomaK2ARyI&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
