@@ -30,7 +30,7 @@ pip install tk
 ```
 # <매개변수> - 17 line
 # 0: 기본 캠, 1이상: 외부 캠
-cap = cv.VideoCapture(0)
+cap = cv.VideoCapture(3)
 ```
 
 #### 2. 파일 경로 자신에 맞게 바꾸기
