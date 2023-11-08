@@ -37,6 +37,9 @@ cap = cv.VideoCapture(3)
 ```
 
 #### 2. 파일 경로 자신에 맞게 바꾸기
+
+참고 :  필자는 상대경로로 저장했기 때문에 바꾸지 않는 것을 추천한다.
+
 ```
 # main.py : Background 경로 - 36 line
 imgBackground = cv.imread('./Resources/background/Background.png')
@@ -48,12 +51,12 @@ folderModePath = './Resources/Modes'
 folderPath = './Resources/Modes'
 ```
 
-#### 3. EncodeGenerator.py 실행하기
+#### 3. EncodeGenerator.py 실행
 ```
 python3 EncodeGenerator.py
 ```
 
-#### 4. main.py 실행하기
+#### 4. main.py 실행
 ```
 python3 main.py
 ```
