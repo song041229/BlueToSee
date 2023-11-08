@@ -9,6 +9,8 @@ BlueToSee 앱의 face_recognition 부분을 다루고 있다.
 
 다음의 주요 라이브러리를 설치하여야 한다:
 
+- python           __version : 3.11.5
+
 - dilb             __version : 19.24.2
 - OpenCV           __version : 4.8.0.76
 - cvzone           __version : 1.6.1
@@ -46,13 +48,19 @@ folderModePath = './Resources/Modes'
 folderPath = './Resources/Modes'
 ```
 
-#### 3. EncodeGenerator.py에서 Modes 파일에 있는 이미지 encoding하기
+#### 3. EncodeGenerator.py 실행하기
+```
+python3 EncodeGenerator.py
+```
 
 #### 4. main.py 실행하기
-
+```
+python3 main.py
+```
 
 ## 라이선스
 This project is licensed under the MIT License.
+But, commercial use is not possible.
 
 ## 참고 자료
 > [한땀한땀 딥러닝 컴퓨터 비전 백과사전](https://wikidocs.net/151311)
