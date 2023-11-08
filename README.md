@@ -7,13 +7,14 @@ BlueToSee 앱의 face_recognition 부분을 다루고 있다.
 참고로 모델 사용은 하지 않았다. 사진을 최소한(1장)으로 사용하기 때문에 필요없다고 판단하였다.
 
 
-다음의 라이브러리를 설치하여야 한다:
+다음의 주요 라이브러리를 설치하여야 한다:
 
-- OpenCV
-- cvzone
-- numpy
-- face_recognition
-- tkinter
+- dilb             __version : 19.24.2
+- OpenCV           __version : 4.8.0.76
+- cvzone           __version : 1.6.1
+- numpy            __version : 1.26.0
+- face_recognition __version : 1.3.0
+- tk               __version : 8.6.12 
 
 ```
 pip install dlib
