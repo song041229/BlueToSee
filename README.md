@@ -61,7 +61,7 @@ python3 EncodeGenerator.py
 python3 main.py
 ```
 
-## 라이선스
+## License
 This project is licensed under the MIT License.
 But, commercial use is not possible.
 
